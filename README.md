@@ -1,2 +1,2 @@
 # lambdavalidacao
-Esta lambda tem a função de verificar se um produto existe
+Esta lambda tem o objetivo de consultar uma API e verificar se o produto existe.
